@@ -19,10 +19,10 @@
 
 ## 配置语法
 
-| 静态资源服务 |  |  |  |  |
+| 静态资源服务 |  |  |  |
 | :--- | :--- | :--- | :--- |
-| 语法 | sendfile on \| off | tcp\_nopush  on \| off | tcp\_nodelay on \| off |  |
-| 默认 | sendfile off | tcp\_nopush off | tcp\_nopush on |  |
-| 作用域 | http,server,location, if in location | http,server,location | http,server,location |  |
-| 备注 |  | sendfile开启的情况下,提高网络包的传输效率 | keepalive连接下,提高网络包的传输实时行 |  |
+| 语法 | sendfile on \| off | tcp\_nopush  on \| off | tcp\_nodelay on \| off |
+| 默认 | sendfile off | tcp\_nopush off | tcp\_nopush on |
+| 作用域 | http,server,location, if in location | http,server,location | http,server,location |
+| 备注 |  | sendfile开启的情况下,提高网络包的传输效率 | keepalive连接下,提高网络包的传输实时行 |
 
