@@ -11,19 +11,19 @@ HTTP不安全
 
 ## 对称加密和非对称加密
 
-对称加密 ![](https://github.com/kingofzihua/middleware-architecture-based-on-nginx/tree/2e7a10d6ee4bfe83fce6d75d27b818bc96a69f67/assets/symmetric-encryption.png)
+对称加密 ![](https://kingofzihua.oss-cn-shanghai.aliyuncs.com/blog/nginx/symmetric-encryption.png)
 
-非对称加密 ![](https://github.com/kingofzihua/middleware-architecture-based-on-nginx/tree/2e7a10d6ee4bfe83fce6d75d27b818bc96a69f67/assets/asymmetric-encryption.png)
+非对称加密 ![](https://kingofzihua.oss-cn-shanghai.aliyuncs.com/blog/nginx/asymmetric-encryption.png)
 
 ## HTTPS加密协议原理
 
-![](https://github.com/kingofzihua/middleware-architecture-based-on-nginx/tree/2e7a10d6ee4bfe83fce6d75d27b818bc96a69f67/assets/https-encryption.png)
+![](https://kingofzihua.oss-cn-shanghai.aliyuncs.com/blog/nginx/https-encryption.png)
 
 ## 中间人伪造客户端和服务端
 
-![](https://github.com/kingofzihua/middleware-architecture-based-on-nginx/tree/2e7a10d6ee4bfe83fce6d75d27b818bc96a69f67/assets/client-forgery.png)
+![](https://kingofzihua.oss-cn-shanghai.aliyuncs.com/blog/nginx/client-forgery.png)
 
 ## HTTPS怎么防范中间人伪造
 
-![](https://github.com/kingofzihua/middleware-architecture-based-on-nginx/tree/2e7a10d6ee4bfe83fce6d75d27b818bc96a69f67/assets/keep-watch-client-forgery.png)
+![](https://kingofzihua.oss-cn-shanghai.aliyuncs.com/blog/nginx/keep-watch-client-forgery.png)
 

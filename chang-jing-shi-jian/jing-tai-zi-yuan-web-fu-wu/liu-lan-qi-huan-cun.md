@@ -6,11 +6,11 @@ HTTP协议定义的缓存机制\(如:Expires; Cache-control 等\)
 
 ### 浏览器无缓存时
 
-![](https://github.com/kingofzihua/middleware-architecture-based-on-nginx/tree/2e7a10d6ee4bfe83fce6d75d27b818bc96a69f67/assets/browser-cache-no.png)
+![](https://kingofzihua.oss-cn-shanghai.aliyuncs.com/blog/nginx/browser-cache-no.png)
 
 ### 浏览器有缓存时
 
-![](https://github.com/kingofzihua/middleware-architecture-based-on-nginx/tree/2e7a10d6ee4bfe83fce6d75d27b818bc96a69f67/assets/browser-cache-has.png)
+![](https://kingofzihua.oss-cn-shanghai.aliyuncs.com/blog/nginx/browser-cache-has.png)
 
 ### 校检过期机制
 
@@ -23,7 +23,7 @@ HTTP协议定义的缓存机制\(如:Expires; Cache-control 等\)
 
 ### 浏览器缓存原理
 
-![](https://github.com/kingofzihua/middleware-architecture-based-on-nginx/tree/2e7a10d6ee4bfe83fce6d75d27b818bc96a69f67/assets/861554-20160820111456437-1615310660.png)
+![](https://kingofzihua.oss-cn-shanghai.aliyuncs.com/blog/nginx/861554-20160820111456437-1615310660.png)
 
 ## 配置语法
 

@@ -7,9 +7,9 @@
 
   下载:
 
-  ![](https://github.com/kingofzihua/middleware-architecture-based-on-nginx/tree/2e7a10d6ee4bfe83fce6d75d27b818bc96a69f67/assets/secure_link_module_download.png)
+  ![](https://kingofzihua.oss-cn-shanghai.aliyuncs.com/blog/nginx/secure_link_module_download.png)
 
-验证: ![](https://github.com/kingofzihua/middleware-architecture-based-on-nginx/tree/2e7a10d6ee4bfe83fce6d75d27b818bc96a69f67/assets/secure_link_module_validate.png)
+验证: ![](https://kingofzihua.oss-cn-shanghai.aliyuncs.com/blog/nginx/secure_link_module_validate.png)
 
 ## 配置语法
 

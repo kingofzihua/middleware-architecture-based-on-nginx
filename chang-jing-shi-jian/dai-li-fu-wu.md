@@ -1,14 +1,14 @@
 # 代理服务
 
-![](https://github.com/kingofzihua/middleware-architecture-based-on-nginx/tree/2e7a10d6ee4bfe83fce6d75d27b818bc96a69f67/assets/proxy-chart.png) ![](https://github.com/kingofzihua/middleware-architecture-based-on-nginx/tree/2e7a10d6ee4bfe83fce6d75d27b818bc96a69f67/assets/proxy-chart-1.png)
+![](https://kingofzihua.oss-cn-shanghai.aliyuncs.com/blog/nginx/proxy-chart.png) ![](https://kingofzihua.oss-cn-shanghai.aliyuncs.com/blog/nginx/proxy-chart-1.png)
 
 ## 正向代理
 
-正向代理代理的对象是客户端 ![](https://github.com/kingofzihua/middleware-architecture-based-on-nginx/tree/2e7a10d6ee4bfe83fce6d75d27b818bc96a69f67/assets/forward-agent.png)
+正向代理代理的对象是客户端 ![](https://kingofzihua.oss-cn-shanghai.aliyuncs.com/blog/nginx/forward-agent.png)
 
 ## 反向代理
 
-反向代理代理的对象是服务端 ![](https://github.com/kingofzihua/middleware-architecture-based-on-nginx/tree/2e7a10d6ee4bfe83fce6d75d27b818bc96a69f67/assets/reverse-proxy.png)
+反向代理代理的对象是服务端 ![](https://kingofzihua.oss-cn-shanghai.aliyuncs.com/blog/nginx/reverse-proxy.png)
 
 ## 配置语法
 

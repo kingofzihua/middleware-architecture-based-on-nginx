@@ -2,7 +2,7 @@
 
 ## 静态资源服务
 
-![](https://github.com/kingofzihua/middleware-architecture-based-on-nginx/tree/2e7a10d6ee4bfe83fce6d75d27b818bc96a69f67/assets/static_resources_web_server.png)\#\#\# 静态资源服务
+![](https://kingofzihua.oss-cn-shanghai.aliyuncs.com/blog/nginx/static_resources_web_server.png)\#\#\# 静态资源服务
 
 ## 静态资源类型
 
@@ -15,7 +15,7 @@
 
 ## 静态资源服务场景-CDN
 
-![](https://github.com/kingofzihua/middleware-architecture-based-on-nginx/tree/2e7a10d6ee4bfe83fce6d75d27b818bc96a69f67/assets/static_resources_web_server_cdn.png)
+![](https://kingofzihua.oss-cn-shanghai.aliyuncs.com/blog/nginx/static_resources_web_server_cdn.png)
 
 ## 配置语法
 
